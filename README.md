@@ -1,1 +1,3 @@
-# sina-ai
+--------------------------------------------------------------
+# Deep Learning with Tensorflow
+Sina Sadeghi
